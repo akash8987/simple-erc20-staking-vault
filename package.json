@@ -1,0 +1,10 @@
+{
+  "name": "simple-erc20-staking-vault",
+  "version": "1.0.0",
+  "description": "Professional Web3 Staking Contract",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
